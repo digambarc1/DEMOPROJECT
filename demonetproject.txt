@@ -1,0 +1,14 @@
+GIT
+
+github allows us to post git repository
+
+repository is the folder where all the changes are saved.
+
+ls- a -> it shows all the hidden file.
+
+git status -> git status is for it looks for ny changes happened or not ..
+
+if you want to add one file specifically then you have to add with name or you can add with
+. dot...
+
+cat and txt name will tell what are data inside the file....
